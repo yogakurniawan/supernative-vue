@@ -3,7 +3,6 @@
   "version": "0.1.1",
   "private": true,
   "scripts": {
-    "semantic-release": "cross-env GITHUB_TOKEN=3d9fd56dd5b8bd6844d242ed941c8b1421fedfec semantic-release",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
@@ -30,7 +29,6 @@
     "@vue/test-utils": "1.0.0-beta.29",
     "babel-eslint": "^10.0.3",
     "chromedriver": "79",
-    "cross-env": "^6.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-vue": "^5.0.0",
