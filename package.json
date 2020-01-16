@@ -1,6 +1,6 @@
 {
   "name": "supernative-vue",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "semantic-release": "cross-env GITHUB_TOKEN=3d9fd56dd5b8bd6844d242ed941c8b1421fedfec semantic-release",
