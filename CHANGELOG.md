@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/yogakurniawan/supernative-vue/compare/v1.0.0...v1.0.1) (2020-01-16)
+
+
+### Bug Fixes
+
+* **package:** remove cross-env and semantic-release npm script ([77a609c](https://github.com/yogakurniawan/supernative-vue/commit/77a609c1a1d04ba242c2c18015cd6c8bb81787f5))
+
 # 1.0.0 (2020-01-16)
 
 
