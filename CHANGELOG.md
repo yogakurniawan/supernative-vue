@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/yogakurniawan/supernative-vue/compare/v1.2.0...v1.3.0) (2020-01-20)
+
+
+### Features
+
+* **NewHello:** added apple ([0733408](https://github.com/yogakurniawan/supernative-vue/commit/07334081f027384629662533dd773298a27db9ba))
+* **NewHello:** added mango ([7f439c2](https://github.com/yogakurniawan/supernative-vue/commit/7f439c257c1189964f0c67c4d528d1b268c7e13b))
+
 # [1.2.0](https://github.com/yogakurniawan/supernative-vue/compare/v1.1.0...v1.2.0) (2020-01-20)
 
 
