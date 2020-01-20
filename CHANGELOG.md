@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/yogakurniawan/supernative-vue/compare/v1.0.1...v1.1.0) (2020-01-20)
+
+
+### Bug Fixes
+
+* **NewHello:** reset the text ([8e38f72](https://github.com/yogakurniawan/supernative-vue/commit/8e38f727580aabb5816da44be121f7030adab97e))
+
+
+### Features
+
+* **NewHello:** added new text ([42304a1](https://github.com/yogakurniawan/supernative-vue/commit/42304a1f9cdf348cc4c6a4985a0ab3ffa7d0dbed))
+
 ## [1.0.1](https://github.com/yogakurniawan/supernative-vue/compare/v1.0.0...v1.0.1) (2020-01-16)
 
 
