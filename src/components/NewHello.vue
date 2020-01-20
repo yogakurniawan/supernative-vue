@@ -1,5 +1,8 @@
 <template>
-  <div>Reset the text</div>
+  <div>
+    <span>Reset the text</span>
+    <div>add new text</div>
+  </div>
 </template>
 
 <script>
