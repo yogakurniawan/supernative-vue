@@ -1,5 +1,9 @@
 <template>
-  <div>Hey this is new hello world add some text add again some text</div>
+  <div>
+    <span>Reset the text</span>
+    <div>add new text</div>
+    <div>add new text</div>
+  </div>
 </template>
 
 <script>
