@@ -2,6 +2,7 @@
   <div>
     <span>Reset the text</span>
     <div>add new text</div>
+    <div>add new text</div>
   </div>
 </template>
 
