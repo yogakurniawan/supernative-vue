@@ -5,6 +5,7 @@
     <div>add new text</div>
     <div>add new text</div>
     <div>add apple</div>
+    <div>add mango</div>
   </div>
 </template>
 
