@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yogakurniawan/supernative-vue/compare/v1.1.0...v1.2.0) (2020-01-20)
+
+
+### Features
+
+* **NewHello:** added new text ([caf9896](https://github.com/yogakurniawan/supernative-vue/commit/caf9896c741c9cdae8dfde91f0d5589bc2d768cc))
+
 # [1.1.0](https://github.com/yogakurniawan/supernative-vue/compare/v1.0.1...v1.1.0) (2020-01-20)
 
 
